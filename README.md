@@ -1,1 +1,1 @@
-# loops_functions
+# Loops and Functions Practice
